@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @jacquiepreza
-- 👀 I’m interested in ... connecting with IT professionals!
+- 👀 I’m interested in ... connecting with IT professionals! Currently on the hunt for:
+🖥 Java Devs
 - 📖 I’m currently reading ... "Why We Sleep" by Matthew Walker
 - 📫 How to reach me ... jacquelina.preza@randstad.ca | https://www.linkedin.com/in/jacquelina-preza-a672b4151/
 
